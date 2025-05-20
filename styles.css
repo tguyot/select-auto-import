@@ -452,13 +452,17 @@ footer {
         justify-content: center;
         transition: right 0.3s ease;
         z-index: 99;
-        padding-top: 80px; /* Espace pour le hamburger */
+        padding-top: 80px;
+        /* Ajoutez ces propriétés */
+        display: flex !important; /* Force l'affichage */
+        opacity: 0; /* Commence invisible */
+        transition: right 0.3s ease, opacity 0.3s ease; /* Animation doublée */
     }
     
     .menu.active {
         right: 0;
+        opacity: 1; /* Devient visible */
     }
-    
     .menu li {
         margin: 1.5rem 0;
     }
