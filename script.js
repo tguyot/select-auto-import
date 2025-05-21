@@ -27,6 +27,7 @@ const footerHTML = `
             <h3>Liens utiles</h3>
             <ul>
                 <li><a href="index.html">Accueil</a></li>
+                <li><a href="vehicules.html">Véhicules</a></li>
                 <li><a href="services.html">Services</a></li>
                 <li><a href="contact.html">Contact</a></li>
             </ul>
