@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "marque": "Mercedes",
+    "modele": "A200 AMG Line",
+    "annee": 2021,
+    "km": 25000,
+    "carburant": "Essence",
+    "boite": "Automatique",
+    "prix": 29900,
+    "photo": "https://via.placeholder.com/600x400?text=Mercedes+A200",
+    "lien": "https://www.leboncoin.fr/..."
+  },
+  {
+    "id": 2,
+    "marque": "BMW",
+    "modele": "320d M Sport",
+    "annee": 2019,
+    "km": 45000,
+    "carburant": "Diesel", 
+    "boite": "Automatique",
+    "prix": 34500,
+    "photo": "https://via.placeholder.com/600x400?text=BMW+Serie+3",
+    "lien": "https://www.leboncoin.fr/..."
+  }
+]
